@@ -5,9 +5,9 @@ html boostrap skeleton for starting web pages.
 
 uses:
 
-boostrap
+boostrap 3.3.1
 
-jquery
+jquery 1.11.2
 
 responsiveslides, for slides with responsive support
 
